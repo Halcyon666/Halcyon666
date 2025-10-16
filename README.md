@@ -22,14 +22,19 @@ Here are some ideas to get you started:
 I'm a Java Developer, interested in React, AI, WEB3 etc.<br/>
 After more than five years of working with Java, I’m ready to explore new technologies and pursue fresh opportunities.
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=halcyon666&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=halcyon666&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=halcyon666&show_icons=true" />
-</picture>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=halcyon666&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=halcyon666&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=halcyon666&show_icons=true"
+      alt="Halcyon666's GitHub stats"
+    />
+  </picture>
+</a>
