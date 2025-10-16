@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 I'm a Java Developer, interested in React, AI, WEB3 etc.<br/>
-After working more than 5 years, I'm tired with Java, pursuit for new things for new chances.
+After more than five years of working with Java, I’m ready to explore new technologies and pursue fresh opportunities.
 
 <picture>
   <source
