@@ -22,6 +22,14 @@ Here are some ideas to get you started:
 I'm a Java Developer, interested in React, AI, WEB3 etc.<br/>
 After more than five years of working with Java, I’m ready to explore new technologies and pursue fresh opportunities.
 
+Enjoy small games:
+1. [tenzies](https://halcyon666.github.io/tenzies/)
+2. [tic-tac-toe](halcyon666.github.io/react-tic-tac-toe/)
+> [!note]
+> tic-tac-toe deployed on 2025-01-12
+> tenzies deployed on 2025-10-20 
+> 
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
     <source
