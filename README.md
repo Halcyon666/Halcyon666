@@ -24,9 +24,9 @@ After more than five years of working with Java, I’m ready to explore new tech
 
 Enjoy small games:
 1. [tenzies](https://halcyon666.github.io/tenzies/)
-2. [tic-tac-toe](halcyon666.github.io/react-tic-tac-toe/)
+2. [tic-tac-toe](https://halcyon666.github.io/react-tic-tac-toe/)
 > [!note]
-> tic-tac-toe deployed on 2025-01-12
+> tic-tac-toe deployed on 2025-01-12<br/>
 > tenzies deployed on 2025-10-20 
 > 
 
