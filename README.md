@@ -37,7 +37,7 @@ react
 - [tic-tac-toe](https://halcyon666.github.io/react-tic-tac-toe/)
 - [tenzies](https://halcyon666.github.io/tenzies/)
 - [assembly-enggame](https://halcyon666.github.io/assembly-endgame/)
-- [Chef-Claude](https://halcyon666.github.io/chef-claude/)
+- [chef-claude](https://halcyon666.github.io/chef-claude/)
 
 vue
 - [taco-shop](https://halcyon666.github.io/taco-shop/)
@@ -45,7 +45,7 @@ vue
 - [vue-learnt](https://github.com/Halcyon666/vue-learn)
 
 CSS
-- [css](https://github.com/Halcyon666/css_course)
+- [learnt css](https://github.com/Halcyon666/css_course)
 
 ### DevOps:
 Familiar with Docker, Kubernetes, and Linux for containerization and deployment.
