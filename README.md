@@ -19,16 +19,46 @@ Here are some ideas to get you started:
 > First time here, I won’t write too much. I’ll update it someday.
 
 
-I'm a Java Developer, interested in React, AI, WEB3 etc.<br/>
-After more than five years of working with Java, I’m ready to explore new technologies and pursue fresh opportunities.
+I'm a Java Developer with over five years of experience, passionate about exploring new technologies and expanding my expertise. My interests span across React, AI, Web3, and other cutting-edge fields.
 
-Enjoy small games:
-1. [tenzies](https://halcyon666.github.io/tenzies/)
-2. [tic-tac-toe](https://halcyon666.github.io/react-tic-tac-toe/)
-> [!note]
-> tic-tac-toe deployed on 2025-01-12<br/>
-> tenzies deployed on 2025-10-20 
-> 
+## Key Areas of Expertise:
+
+### Backend Development:
+Proficient in Java, Spring Framework, and JVM internals.<br/>
+Experienced in building scalable systems and solving complex backend challenges.
+
+- [many java case done](https://github.com/Halcyon666/learn-cases)
+> follow details [here](https://github.com/Halcyon666/learn-cases/blob/main/learncases/readme.adoc)
+
+### Frontend Development:
+Learning React and Vue to create dynamic and interactive web applications.
+
+react 
+- [tic-tac-toe](https://halcyon666.github.io/react-tic-tac-toe/)
+- [tenzies](https://halcyon666.github.io/tenzies/)
+- [assembly-enggame](https://halcyon666.github.io/assembly-endgame/)
+- [Chef-Claude](https://halcyon666.github.io/chef-claude/)
+
+vue
+- [taco-shop](https://halcyon666.github.io/taco-shop/)
+> 使用tailwind + ts + vue3 + vite 搭建
+- [vue-learnt](https://github.com/Halcyon666/vue-learn)
+
+CSS
+- [css](https://github.com/Halcyon666/css_course)
+
+### DevOps:
+Familiar with Docker, Kubernetes, and Linux for containerization and deployment.
+
+### AI and Big Data:
+Exploring AI technologies and frameworks like TensorFlow and PyTorch. <br/>
+Interested in big data tools like Hadoop and Flink.<br/>
+
+### React Learning:
+Created repositories to document React learning progress and experiments.
+### AI Experiments:
+Exploring AI algorithms and their applications in real-world scenarios.
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
