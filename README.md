@@ -39,7 +39,6 @@ react
 - [assembly-enggame](https://halcyon666.github.io/assembly-endgame/)
 - [chef-claude](https://halcyon666.github.io/chef-claude/)
 - [course-tracker](https://course-tracker-three.vercel.app/)
-vue
 - [taco-shop](https://halcyon666.github.io/taco-shop/)
 > 使用tailwind + ts + vue3 + vite 搭建
 - [vue-learnt](https://github.com/Halcyon666/vue-learn)
